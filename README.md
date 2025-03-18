@@ -30,7 +30,7 @@ The Expense/Money Tracker (Personal Finance Manager) is a web application that h
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Kiran20040329/Brainwave_Matrix_Intern/tree/main
+   https://github.com/Kiran20040329/Brainwave_Matrix_Intern.git
    ```
 2. Open `ExpenceLogin.html` in a web browser.
 
